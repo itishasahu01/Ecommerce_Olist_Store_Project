@@ -40,9 +40,10 @@ The olist [Data Dictionary](https://github.com/itishasahu01/Ecommerce_Olist_Stor
 - 🐾 **Average Price & Payment Values in São Paulo City**  
 - 📍 **Relationship Between Shipping Days & Review Scores**<br>
 
- ** 77% of payments occur on weekdays → opportunity for weekend promotions  
+### 🔎 Data Insights
+- 🗓️ **Weekday vs Weekend Sales:** 77% of payments occur on weekdays → opportunity for weekend promotions  
 - 💳 **Payment Preferences:** Credit cards dominate 5-star reviews → digital payments drive satisfaction  
-- 🚚 **Delivery Performance:** Faster shipping improves customer review scores; electronics face longer delays  
+- 🚚 **Delivery Performance:** Faster shipping improves customer review scores 
 - 🐾 **Category Insight:** Pet shop orders take ~11 days on average → logistics optimization needed  
 - 📍 **Regional Insight:** São Paulo customers spend more than product price → multi-item purchases common  
 
