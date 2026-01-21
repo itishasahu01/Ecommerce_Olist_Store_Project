@@ -14,3 +14,6 @@ The Olist dataset comprises nine separate datasets, all of which are stored in C
 8. olist_geolocation_dataset
 9. olist_category_dataset
 <br>The olist [Data Dictionary](https://github.com/itishasahu01/Ecommerce_Olist_Store_Project/blob/main/Olist.Data.Dictionary.2.pdf) that offers a complete overview of the dataset. This data dictionary is a valuable reference as it provides in-depth explanations of each variable and its significance within the dataset. It serves as a useful tool for understanding and interpreting the data effectively.
+
+### Data Schema
+<img width="2486" height="1496" alt="Joins" src="https://github.com/user-attachments/assets/91d8aa64-436b-4724-9482-563719f5cdff" />
